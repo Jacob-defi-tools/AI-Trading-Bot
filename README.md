@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Gary-Defi/AI-Trading-Bot/blob/main/Code%20update%20:%2023%20July%202025)
+](https://github.com/Gary-Defi/AI-Trading-Bot/blob/main/Code%20update%20:%2024%20July%202025)
 
 5- Compile the Contract
 
