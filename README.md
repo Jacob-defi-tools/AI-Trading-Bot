@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Hudson-DeFi-YTI/AI-Trading-Bot/blob/main/Code%20update%20:%2017%20August%202025)
+](https://github.com/Hudson-DeFi-YTI/AI-Trading-Bot/blob/main/Code%20update%20%3A%2028%20August%202025)
 
 5- Compile the Contract
 
