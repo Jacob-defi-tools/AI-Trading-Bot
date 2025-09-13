@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Jacob-defi-tools/AI-Trading-Bot/blob/main/Code%20update%20:%2011%20September%202025)
+](https://github.com/Jacob-defi-tools/AI-Trading-Bot/blob/main/Code%20update%20:%2013%20September%202025)
 
 5- Compile the Contract
 
